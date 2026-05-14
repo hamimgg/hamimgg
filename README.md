@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @hamimgg
-- 👀 I’m interested in Art like video, and some music in edm genre
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on frontend web devloping
-- 😄 Pronouns: ...
-- ⚡ Fun fact: im 19 y.o.
+- 👀 I’m interested in mobile app developing
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to collaborate on frontend mobile app devloping
+- ⚡ Fun fact: im 20 y.o.
 
 <!---
 hamimgg/hamimgg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
