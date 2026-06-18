@@ -58,7 +58,7 @@ A Flutter-based mobile application designed to empower street food vendors in In
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/hamimgg
-- Email: your-email@example.com
+- Email: hamim.abdillah1656@gmail.com
 
 ---
 
