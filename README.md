@@ -16,7 +16,7 @@ I am a passionate Flutter developer focused on building modern, scalable, and us
 
 ## 📊 GitHub Stats
 
-![Hamim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamimgg&show_icons=true&theme=tokyonight)
+![Hamim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamimgg&show_icons=true&theme=light)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamimgg&layout=compact&theme=tokyonight)
 
